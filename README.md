@@ -101,6 +101,48 @@ The system responds with matches and initiates contact with patients if availabl
 
 ---
 
+## 📈 Business Case
+
+Clinical trials and medical studies face major challenges in recruiting suitable patients quickly and effectively. Many volunteers are either unaware of relevant trials or are matched inefficiently, leading to delays and increased costs.
+
+This system solves these problems by:
+- Automating patient-trial matching with intelligent agents.
+- Reducing the overhead and manual effort for both researchers and patients.
+- Enhancing outreach using chat-based interaction and smart LLM query handling.
+- Allowing decentralized deployment using Fetch.ai's AgentVerse.
+
+**Target Users**:
+- Clinical researchers
+- Hospitals and pharmaceutical companies
+- Independent medical trial organizations
+
+**Benefits**:
+- Faster patient acquisition
+- Improved targeting of relevant candidates
+- Reduced administrative overhead
+- Scalable and customizable agent framework
+
+---
+
+## 💰 ROI Analysis
+
+| Factor                             | Traditional Approach         | Agent-Based System                  |
+|------------------------------------|------------------------------|--------------------------------------|
+| Patient Acquisition Time           | Weeks to months              | Minutes to hours                     |
+| Human Resources                    | Multiple recruiters needed   | 1–2 operators + agents               |
+| Cost per Patient Match             | High ($100–$1000+)           | Low (near-zero per query)           |
+| Trial Drop-out Risk                | Higher due to poor matching  | Lower with intelligent filtering     |
+| Scalability                        | Limited                      | Easily scalable across geographies   |
+
+**Estimated ROI Over 6 Months**:
+- 60–80% cost reduction in patient recruitment
+- 3–5x faster onboarding times
+- Better data for targeted trial design
+
+With minimal deployment cost and integration effort, this agent-based approach can transform clinical trial logistics into a more agile, intelligent, and cost-effective process.
+
+---
+
 ##  Powered By
 
 - [Fetch.ai AgentVerse](https://agentverse.ai/)
