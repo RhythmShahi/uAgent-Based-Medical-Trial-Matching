@@ -62,7 +62,7 @@ uAgents
 openai Python client (used for ASI-1)
 
 ### Installation
-bash
+```bash
 Copy
 Edit
 pip install uagents openai
@@ -76,17 +76,18 @@ client = OpenAI(
     base_url='https://api.asi1.ai/v1',
     api_key='your_asi1_api_key_here'
 )
-
+```
 ### Running the Agents
 In one terminal:
 
-bash
+```bash
 Copy
 Edit
 python iVolunteer.py
+```
 In another terminal:
 
-bash
+```bash
 Copy
 Edit
 python FindAPatient.py
