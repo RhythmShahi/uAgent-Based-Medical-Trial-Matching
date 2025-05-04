@@ -82,9 +82,11 @@ The system responds with matches and initiates contact with patients if availabl
 
 ```bash
 .
-├── FindAPatient.py       # Doctor agent handling queries and matching
-├── iVolunteer.py         # Volunteer agent for patient data registration
-└── README.md             # Project documentation
+├── README.md              # Project documentation
+├── requirements.txt       # Python dependencies
+└── agents/
+    ├── FindAPatient.py    # Doctor agent handling queries and matching
+    └── iVolunteer.py      # Volunteer agent for patient data registration
 ```
 
 ---
