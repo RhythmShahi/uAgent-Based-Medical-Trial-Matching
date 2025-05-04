@@ -7,8 +7,8 @@ A Fetch.ai [AgentVerse](https://docs.fetch.ai/) application using two uAgents â€
 
 This system is built around two autonomous agents:
 
-- **`FindAPatient`**: Acts as a doctor agent searching for suitable patients for a medical or drug trial.
-- **`iVolunteer`**: Acts as a patient/volunteer agent that registers interest and availability for trials based on category.
+- [**`FindAPatient`**](test-agent://agent1qwg3rr7km9z980ummuq2uynhyph9kcjju39j072l5kxj2rf76h6cvxwaw64): Acts as a doctor agent searching for suitable patients for a medical or drug trial.
+- [**`iVolunteer`**](test-agent://agent1qw8mgv2rqz2ulzaz8x6tksf2eqmrrulmxjf4mmw0j7733qkzp2dyk23zf5m): Acts as a patient/volunteer agent that registers interest and availability for trials based on category.
 
 The agents communicate via [uAgents](https://github.com/fetchai/uAgents) and leverage **ASI-1 MINI (ASI-MINI)**, a powerful AI model, to intelligently analyze patient data and handle natural language queries from doctors.
 
